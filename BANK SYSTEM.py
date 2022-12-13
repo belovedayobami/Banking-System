@@ -27,7 +27,7 @@ BANKRECORD ={'AYOOLA FAITH':'$230,000',
               'SOLADOYE KOREDE':'$414,450',
               'AWOLADE PEACE':'$469,900',
              'IGE MICHEAL':'$678,000',
-              'ADEYEMO FOLASAYO':'$786,900'}
+              'ADEYEMO DOLASAYO':'$786,900'}
 
 if NAME in BANKRECORD :
     if GENDER == 'male':
